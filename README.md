@@ -1,2 +1,2 @@
 # Arduino Latches NES :D
-This is an Arduino Project implemented in the RS Latch learned in class into C++ and breadboards :)
+Set of Arduino Projects doing the gates learnt in class, implemented into C++ and the Arduino :D 
